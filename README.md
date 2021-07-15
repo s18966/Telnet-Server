@@ -1,2 +1,3 @@
 # Telnet-Server
 Simple Telnet Server
+3 variations of main file, one for each task, root folder is for testing patterns like a, asd, as....
